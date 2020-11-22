@@ -32,14 +32,17 @@ zstyle ':prezto:*:*' color 'yes'
 zstyle ':prezto:load' pmodule \
   'environment' \
   'terminal' \
+  'osx' \
   'editor' \
   'history' \
+  'syntax-highlighting' \
+  'history-substring-search' \
+  'autosuggestions' \
   'directory' \
   'spectrum' \
   'utility' \
   'completion' \
-  'history-substring-search' \
-  'prompt'
+  'history-substring-search'
 
 #
 # Autosuggestions
